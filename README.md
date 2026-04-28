@@ -120,10 +120,10 @@ Renew / Surrender
 
 ```bash
 # Clone the repository
-git clone [your repo link]
+git https://github.com/noSkcaHdat/Mr.Cooper-Round2--LongCoding
 
 # Navigate to the folder
-cd [your repo folder]
+cd INSURANCE-POLICY-MGMT
 
 # Run the program
 python insurance_management.py
